@@ -48,10 +48,8 @@ header nav a {
 	text-decoration: none;
 }
 
-p {
-	font-size: 16px;
-}
-
+/* main section starts here*/
+/* people in discussion -image*/
 .hero {
 	height: 800px;
 	width: 100%;
@@ -60,6 +58,12 @@ p {
 	background-size: cover;
 	background-position: center;
 }
+
+p {
+	font-size: 16px;
+}
+
+
 
 .float-left {
 	float: left;
