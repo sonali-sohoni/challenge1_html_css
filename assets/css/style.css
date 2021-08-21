@@ -58,13 +58,14 @@ header nav a {
 	background-size: cover;
 	background-position: center;
 }
-
+/*main ->section :content */
 .content {
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
 }
 
+/* Styling of subsections */
 .area-operations {
 	margin-bottom: 20px;
 	padding: 50px;
@@ -73,16 +74,13 @@ header nav a {
 	background-color: #0072bb;
 	color: #ffffff;
 }
-
 .area-operations img {
 	max-height: 200px;
 }
-
 .area-operations h2 {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
-
 p {
 	font-size: 16px;
 }
@@ -95,6 +93,7 @@ p {
 	float: right;
 	margin-left: 25px;
 }
+
 .benefits {
 	margin-right: 20px;
 	padding: 20px;
