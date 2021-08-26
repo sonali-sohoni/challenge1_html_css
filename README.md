@@ -10,8 +10,7 @@
 * Code consolidation - using different css selectors.
 * Code refactor to meet accessibility standards
 * Better code readability and maintainability.
-* Implement and learn better coding practices.
-  
+* Implement and learn better coding practices.  
 
 ## Built With
 * HTML
@@ -20,11 +19,10 @@
 ## Website 
 https://sonali-sohoni.github.io/challenge1_html_css/
 
-
-
 ## Installation
-* Download the code from repository.
-* 
+* Go to https://github.com/sonali-sohoni/challenge1_html_css repository.
+* Click on code and select Clone or download zip file then unzip it.
+* Open the folder in the Visual Studio Code and you are good to go!
 
 ## Usage
 
