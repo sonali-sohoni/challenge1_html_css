@@ -1,4 +1,4 @@
-# Code Refacotr - Horiseon Social Solutions Website
+# Code Refactor - Horiseon Social Solutions Website
 
 ## Description
 * Horiseaon Social Solutions website offers various marketing and brand management related services such as
