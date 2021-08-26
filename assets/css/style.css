@@ -7,7 +7,7 @@
 body {
 	background-color: #d9dcd6;
 }
-/*header */
+/* HEADER / NAV BAR STYLES START */
 header {
 	padding: 20px;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,7 +25,7 @@ header h1 .seo {
 	color: #d9dcd6;
 }
 
-/*navigation links in header */
+/*NAV BAR STYLES */
 header nav {
 	padding-top: 15px;
 	margin-right: 20px;
@@ -33,10 +33,10 @@ header nav {
 	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 	font-size: 20px;
 }
-/*
-header div ul {
+
+header nav ul {
 	list-style-type: none;
-}*/
+}
 
 header nav ul li {
 	display: inline-block;
@@ -48,8 +48,11 @@ header nav a {
 	text-decoration: none;
 }
 
-/* main section starts here*/
-/* people in discussion -image*/
+/* HEADER / NAV BAR STYLES END */
+
+/* MAIN CONTENT*/
+
+/* PEOPLE IN DISCUSSION IMAGE*/
 .hero {
 	height: 800px;
 	width: 100%;
@@ -58,7 +61,8 @@ header nav a {
 	background-size: cover;
 	background-position: center;
 }
-/*main ->section :content */
+
+/*CONTENT SECTION START */
 .content {
 	width: 75%;
 	display: inline-block;
@@ -81,20 +85,12 @@ header nav a {
 	margin-bottom: 20px;
 	font-size: 36px;
 }
-p {
+font16 {
 	font-size: 16px;
 }
-.float-left {
-	float: left;
-	margin-right: 25px;
-}
+/*CONTENT SECTION END*/
 
-.float-right {
-	float: right;
-	margin-left: 25px;
-}
-
-/*Benifits section at the right side of page*/
+/*BENIFITS SECTION START*/
 .benefits {
 	margin-right: 20px;
 	padding: 20px;
@@ -106,33 +102,30 @@ p {
 	background-color: #2589bd;
 }
 
-.benefits div {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
-/*
-.benefit-brand {
-	margin-bottom: 32px;
-	color: #ffffff;
-}
-
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
 	margin-bottom: 32px;
 	color: #ffffff;
-}*/
+}
 
-.benefits h3 {
+.benefit-lead h3,
+.benefit-brand h3,
+.benefit-cost h3 {
 	margin-bottom: 10px;
 	text-align: center;
 }
 
-.benefits img {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
 	display: block;
 	margin: 10px auto;
 	max-width: 150px;
 }
+/*BENIFITS SECTION END*/
 
+/* FOOTER STYLES START */
 footer {
 	padding: 30px;
 	clear: both;
@@ -143,4 +136,16 @@ footer {
 
 footer h2 {
 	font-size: 20px;
+}
+/* FOOTER STYLES END */
+
+/*UTITLITY CLASSES*/
+.float-left {
+	float: left;
+	margin-right: 25px;
+}
+
+.float-right {
+	float: right;
+	margin-left: 25px;
 }
