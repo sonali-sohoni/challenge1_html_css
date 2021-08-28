@@ -5,10 +5,10 @@
    search engine optimization, online reputation management ,social media marketing etc.
 
 ## Objectives
-* Apply basic html and css concepts.
+* Apply basic HTML and CSS concepts.
 * Use of html semantic elements.
-* Code consolidation - using different css selectors.
-* Code refactor to meet accessibility standards
+* Code consolidation - using different CSS selectors.
+* Refactor the code to meet accessibility standards
 * Better code readability and maintainability.
 * Implement and learn better coding practices.  
 
